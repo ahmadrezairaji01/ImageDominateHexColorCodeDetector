@@ -35,7 +35,7 @@ Build and execute the project using the following command:
 dotnet run --project .\src\ImageDominateHexColorCodeDetector\ImageDominateHexColorCodeDetector.csproj
 
 🎯 Example Output
-Upload an image, and the program will output the dominant color in this format:
+Replace the existing image in the project root with your target image, ensuring it has the same name as the previous image (test.jpg). The program will then output the dominant color in the following format:
 
 Dominant Color (Hex): #FF5733
 
@@ -48,7 +48,7 @@ Dominant Color (Hex): #FF5733
 📬 Feedback
 Have suggestions or issues? Feel free to open an issue.
 
-Made with ❤️ by Your Name
+Made with ❤️ by Your Ahmadreza Iraji.
 
 
 
